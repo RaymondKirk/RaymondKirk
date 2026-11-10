@@ -6,10 +6,10 @@ I turn security and AI risk requirements into clear decisions, accountable workf
 
 ## Featured work
 
-- **[AI governance decision case study](https://github.com/RaymondKirk/ai-governance-decision-case-study)** — a fictional internal AI assistant, with a product decision, risk register, launch gates, and NIST AI RMF mapping. The proposed thresholds and decision are clearly labeled; no pilot results are claimed.
+- **[AI governance decision case study](https://github.com/RaymondKirk/ai-governance-decision-case-study)** — a fictional internal AI assistant, with a product decision, risk register, launch gates, and NIST AI RMF mapping. The proposed thresholds and decision are clearly labeled.
 - **[Notion GRC workspace blueprint](https://github.com/RaymondKirk/notion-grc-workspace-blueprint)** — a synthetic, buildable design linking AI use cases, risks, controls, evidence, actions, and decisions. Adapted from the structure of my personal BMF workspace without publishing its records.
-- **[BMF Productivity System](https://github.com/RaymondKirk/bmf-productivity-system)** — a case study of my real Notion workspace, with a public-safe data model and fictional walkthrough. The case study was published in November 2026; the original build dates are not claimed.
-- **[Serverless API project](https://github.com/RaymondKirk/serverless-stack-api)** — an earlier technical repository.
+- **[BMF Productivity System](https://github.com/RaymondKirk/bmf-productivity-system)** — a case study of my real Notion workspace, with a public-safe data model and fictional walkthrough.
+- **[Serverless API project](https://github.com/RaymondKirk/serverless-stack-api)** — an earlier technical payments systems repository.
 
 ## Areas of focus
 
